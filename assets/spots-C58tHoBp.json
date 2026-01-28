@@ -1,0 +1,197 @@
+[
+  {
+    "id": "33acf74c-eba6-413b-bba9-89d7ad2efb6d",
+    "lat": 24.91530853752262,
+    "lng": 118.58657062053682,
+    "title": "泉州钟楼",
+    "description": "泉州钟楼是福建省泉州市中心地标建筑，始建于1934年，1935年完工，位于中山路与东、西街交叉口，由留英设计师设计。钟楼高13.8米，采用钢筋混凝土结构，白色外观融合欧洲风格与闽南元素，顶部设四面时钟及避雷设施，底部由四根水泥柱支撑，兼具计时与交通指引功能。",
+    "checkIn": "",
+    "coverImageRef": "/src/assets/images/06/01.jpg",
+    "photos": [
+      {
+        "id": "a9e37966-5750-44f6-a200-c0ae7b6f10e3",
+        "imageRef": "/src/assets/images/06/05.jpg",
+        "caption": ""
+      },
+      {
+        "id": "e2aa481b-ae79-439d-b79a-65cf069dd0a4",
+        "imageRef": "/src/assets/images/06/04.jpg",
+        "caption": ""
+      },
+      {
+        "id": "b827c5e5-3857-4750-98c9-7d507f1b1f31",
+        "imageRef": "/src/assets/images/06/03.jpg",
+        "caption": ""
+      },
+      {
+        "id": "efc30dad-10ea-4d79-bc3a-275e7c400f84",
+        "imageRef": "/src/assets/images/06/02.jpg",
+        "caption": ""
+      }
+    ],
+    "foods": [
+      {
+        "id": "dd1167ff-4c27-4596-b02f-7da5eaeb08d4",
+        "imageRef": "/src/assets/images/06/07.jpg",
+        "caption": ""
+      },
+      {
+        "id": "b4084af7-508c-41dd-af47-f8cc426e5886",
+        "imageRef": "/src/assets/images/06/06.jpg",
+        "caption": ""
+      }
+    ]
+  },
+  {
+    "id": "731b583a-d2e8-4d50-90ea-e1bb2374d431",
+    "lat": 24.911840817764908,
+    "lng": 118.58359336853029,
+    "title": "花巷",
+    "description": "",
+    "checkIn": "",
+    "coverImageRef": "/src/assets/images/05/01.jpg",
+    "photos": [
+      {
+        "id": "37e71632-5ff6-4a68-990b-9fa7e5f55822",
+        "imageRef": "/src/assets/images/05/04.jpg",
+        "caption": ""
+      },
+      {
+        "id": "06242854-e4b4-429e-b463-8fa9387b1c0b",
+        "imageRef": "/src/assets/images/05/05.jpg",
+        "caption": ""
+      },
+      {
+        "id": "d21087fa-4731-4621-a529-39d0a5865d72",
+        "imageRef": "/src/assets/images/05/03.jpg",
+        "caption": ""
+      }
+    ],
+    "foods": [
+      {
+        "id": "11f28d3e-297f-4260-b9e4-4d3a06e7a1bf",
+        "imageRef": "/src/assets/images/05/02.jpg",
+        "caption": ""
+      }
+    ]
+  },
+  {
+    "id": "d7016690-92a4-452b-b082-8b5f755627f7",
+    "lat": 24.908605353238926,
+    "lng": 118.58370065689088,
+    "title": "金鱼巷",
+    "description": "金鱼巷位于泉州市鲤城区府文庙西侧，全长约270米，始建于宋代。原名“谢衙”，因宋代皇祐元年进士谢仲规及其子孙佩戴三品金鱼袋而得名 。民国时期因建设人民电影院拓宽巷口至近10米，现存窄处保留2-3米原始宽度",
+    "checkIn": "",
+    "coverImageRef": "/src/assets/images/04/01.jpg",
+    "photos": [],
+    "foods": []
+  },
+  {
+    "id": "0956ce43-1b10-44dd-86fd-da77d6ea5a81",
+    "lat": 24.911232654216803,
+    "lng": 118.57685565948488,
+    "title": "芳草园",
+    "description": "泉州芳草园位于福建省泉州市鲤城区新门街西段，始建于清康熙年间，系靖海侯施琅所建四季花园中的春园（也称“芳草园”），以“春游芳草地”诗文立意构思造园，占地面积6公顷。该园历经兴废，1997年复建后形成古典园林景观，核心景点包括崇光书院、“三洲芳草”牌坊、涵碧亭及荷花池，其布局手法不逊三洲芳草。",
+    "checkIn": "",
+    "coverImageRef": "/src/assets/images/03/01.jpg",
+    "photos": [
+      {
+        "id": "aaa51885-9094-4038-9dcc-fc5bd5b4ebc5",
+        "imageRef": "/src/assets/images/03/02.jpg",
+        "caption": ""
+      }
+    ],
+    "foods": []
+  },
+  {
+    "id": "06c0a51b-fcc7-47bc-a855-69ea5c8b1ffb",
+    "lat": 24.897701456378222,
+    "lng": 118.58416199684144,
+    "title": "天后宫",
+    "description": "泉州天后宫，位于福建省泉州市鲤城区南门天后路，始建于南宋庆元二年（1196年），是海内外妈祖庙宇中年代最早、规格最高的古建筑，为世界文化遗产“泉州：宋元中国的世界海洋商贸中心”的组成部分。",
+    "checkIn": "",
+    "coverImageRef": "/src/assets/images/02/01.jpg",
+    "photos": [
+      {
+        "id": "1cf65dae-7bdc-49db-9c72-f9faff860d39",
+        "imageRef": "/src/assets/images/02/07.jpg",
+        "caption": ""
+      },
+      {
+        "id": "00eebecb-c8e7-4448-8818-32c6d8bd8f1e",
+        "imageRef": "/src/assets/images/02/02.jpg",
+        "caption": ""
+      }
+    ],
+    "foods": [
+      {
+        "id": "b2cbd514-7a64-4360-9105-5cd183e59e1d",
+        "imageRef": "/src/assets/images/02/06.jpg",
+        "caption": ""
+      },
+      {
+        "id": "f3e4a740-fe2b-4ab9-ae7a-09e2f9dd24a0",
+        "imageRef": "/src/assets/images/02/05.jpg",
+        "caption": ""
+      },
+      {
+        "id": "19a9c079-ae1b-45cb-a68c-cb65a9c7fb21",
+        "imageRef": "/src/assets/images/02/03.jpg",
+        "caption": ""
+      }
+    ]
+  },
+  {
+    "id": "879bb026-482e-46e7-943e-bfdc145b364a",
+    "lat": 24.916209776557157,
+    "lng": 118.58105063438417,
+    "title": "泉州开元寺",
+    "description": "",
+    "checkIn": "",
+    "coverImageRef": "/src/assets/images/01/01.jpg",
+    "photos": [
+      {
+        "id": "daebddb4-1df8-493c-8e56-353f081d1293",
+        "imageRef": "/src/assets/images/01/05.jpg",
+        "caption": ""
+      },
+      {
+        "id": "65fb3fc5-066c-49c9-ae1c-c9c39da0d328",
+        "imageRef": "/src/assets/images/01/04.jpg",
+        "caption": ""
+      },
+      {
+        "id": "d0a22c60-0751-461d-a021-1b016de2da9e",
+        "imageRef": "/src/assets/images/01/02.jpg",
+        "caption": ""
+      },
+      {
+        "id": "cb80e4cd-673f-4bfb-8fb2-37ee168bcbd3",
+        "imageRef": "/src/assets/images/01/03.jpg",
+        "caption": ""
+      }
+    ],
+    "foods": [
+      {
+        "id": "f115b25f-9741-4831-9885-545daa6f8e76",
+        "imageRef": "/src/assets/images/01/09.jpg",
+        "caption": ""
+      },
+      {
+        "id": "1221c3bc-567c-40a9-8089-3206fb9d7112",
+        "imageRef": "/src/assets/images/01/08.jpg",
+        "caption": ""
+      },
+      {
+        "id": "715ad3ef-1df5-45e8-91a9-0a37c3c28b80",
+        "imageRef": "/src/assets/images/01/07.jpg",
+        "caption": ""
+      },
+      {
+        "id": "d05009de-0c61-4b03-a6fe-b87dd1df6b8b",
+        "imageRef": "/src/assets/images/01/06.jpg",
+        "caption": ""
+      }
+    ]
+  }
+]
